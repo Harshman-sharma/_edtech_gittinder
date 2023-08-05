@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## OUTPUTS:
+![image](https://github.com/Harshman-sharma/_edtech_gittinder/assets/44753624/511cd1f1-1ac4-43f5-8088-4a355204e5d8)
+
+![image](https://github.com/Harshman-sharma/_edtech_gittinder/assets/44753624/a86d1e25-94f7-4b69-91e8-d5bedbac5f75)
+
+![image](https://github.com/Harshman-sharma/_edtech_gittinder/assets/44753624/aebd4859-2eb1-4195-82a5-45209faec02c)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
